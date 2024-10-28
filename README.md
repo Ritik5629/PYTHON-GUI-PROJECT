@@ -4,8 +4,7 @@ The Hospital Management System is a Python-based application that provides an in
 
 ## Features
 
-Add Patient Records: Easily add patient details, including name, 
-medication, admission and discharge dates, and specific precautions.
+Add Patient Records: Easily add patient details, including name, medication, admission and discharge dates, and specific precautions.
 
 Delete Records: Select and delete patient records as needed.
 
@@ -29,7 +28,8 @@ To run the application, execute the guiproject.py script:
 python guiproject.py
 ```
 
-User Interface
+## User Interface
+
 Add Patient Record: Enter details in the input fields and click Add Record to save patient information.
 
 Delete Selected: Select a record from the list and click Delete Selected to remove it.
