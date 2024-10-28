@@ -36,7 +36,7 @@ Delete Selected: Select a record from the list and click Delete Selected to remo
 
 Patient Records List: View all patient records in a structured table with columns for each detail.
 
-Example Code Snippet
+## Example Code Snippet
 Here’s a quick overview of how to add a patient record programmatically:
 ```bash
 # Add a new patient record
